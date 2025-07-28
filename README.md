@@ -72,12 +72,6 @@ Uses **ESP-NOW** for fast and reliable wireless transmission between ESP32s, wit
 
 ## 🛠 Author
 
-**Hithesh Kanna**  
-📬 [Contact Me](mailto:your.email@example.com)
+**SG Hithesh**  
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
